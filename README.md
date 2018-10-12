@@ -22,3 +22,9 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
   1. Scatter Plot
   2. Hex Plot	
   3. Contour Plot
+
+## CHAPTER 2 : Data and Sampling Distributions ##
+### Random Sampling and Bias ###
+### Sampling Distribution of a Statistic ###
+### Central Limit Theorem ###
+### Bootstrapping ###
