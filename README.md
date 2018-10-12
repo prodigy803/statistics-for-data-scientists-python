@@ -7,8 +7,8 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
 
 ## CHAPTER 1:EXPLORATORY DATA-ANALYSIS: ##
 *	Estimates of Location:
-  *	Mean
-  *	Median and Robust Estimates
+  * Mean
+  * Median and Robust Estimates
 *	Estimates of Variability
   * Standard Devation and Related Estimates
 * Exploring Data Distribution:
