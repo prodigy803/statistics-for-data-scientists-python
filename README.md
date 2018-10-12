@@ -7,17 +7,17 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
 
 ## CHAPTER 1:EXPLORATORY DATA-ANALYSIS: ##
 ###	Estimates of Location: ####
- * Mean
- * Median and Robust Estimates
+ 1. Mean
+ 2. Median and Robust Estimates
 
 #### Estimates of Variability ####
-  * Standard Devation and Related Estimates
+  1. Standard Devation and Related Estimates
 
 #### Exploring Data Distribution ####
-  * Boxplots
-  *	Histograms
-  * Density Estimates
+  1. Boxplots
+  2.	Histograms
+  3. Density Estimates
 
 ### Correlation ###
-  * Scatter Plot
-  * Hex Plot	
+  1. Scatter Plot
+  2. Hex Plot	
