@@ -6,15 +6,15 @@ Repository of all the python codes for the Book : Practical Statistics for Data 
 The idea was to re-write the orginal code in R to Python so that it can be used for future reference by me or by other budding data-scientists.
 
 ## CHAPTER 1:EXPLORATORY DATA-ANALYSIS: ##
- Markup : * Estimates of Location:
-						*	Mean
-						*	Median and Robust Estimates
-					*	Estimates of Variability
-						* Standard Devation and Related Estimates
-					* Exploring Data Distribution:
-						* Boxplots
-						* Histograms
-						* Density Estimates
-					* Correlation
-						* Scatter Plot
-						* Hex Plot	
+*	Estimates of Location:
+ *	Mean
+ *	Median and Robust Estimates
+*	Estimates of Variability
+ * Standard Devation and Related Estimates
+* Exploring Data Distribution:
+ * Boxplots
+ * Histograms
+ * Density Estimates
+* Correlation
+ * Scatter Plot
+ * Hex Plot	
