@@ -5,7 +5,7 @@ Repository of all the python codes for the Book : Practical Statistics for Data 
 
 The idea was to re-write the orginal code in R to Python so that it can be used for future reference by me or by other budding data-scientists.
 
-## CHAPTER 1:EXPLORATORY DATA-ANALYSIS: ##
+## CHAPTER 1 : EXPLORATORY DATA-ANALYSIS ##
 ###	Estimates of Location: ####
  1. Mean
  2. Median and Robust Estimates
@@ -21,3 +21,4 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
 ### Correlation ###
   1. Scatter Plot
   2. Hex Plot	
+  3. Contour Plot
