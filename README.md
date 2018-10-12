@@ -15,6 +15,6 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
   * Boxplots
   *	Histograms
   * Density Estimates
-####Correlation ####
+###Correlation ####
   * Scatter Plot
   * Hex Plot	
