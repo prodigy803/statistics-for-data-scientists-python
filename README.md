@@ -9,7 +9,7 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
 ###	Estimates of Location: ####
  * Mean
  * Median and Robust Estimates
- 
+
 #### Estimates of Variability ####
   * Standard Devation and Related Estimates
 
@@ -18,6 +18,6 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
   *	Histograms
   * Density Estimates
 
-###Correlation ###
+### Correlation ###
   * Scatter Plot
   * Hex Plot	
