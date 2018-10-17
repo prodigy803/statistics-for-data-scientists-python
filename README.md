@@ -6,42 +6,42 @@ Repository of all the python codes for the Book : Practical Statistics for Data 
 The idea was to re-write the orginal code in R to Python so that it can be used for future reference by me or by other budding data-scientists.
 
 ## CHAPTER 1 : EXPLORATORY DATA-ANALYSIS ##
-###	Estimates of Location: ####	
+###	1. Estimates of Location: ####	
 	1. Mean
 	2. Median and Robust Estimates
 
-#### Estimates of Variability ####
+#### 2. Estimates of Variability ####
 	1. Standard Devation and Related Estimates
 
-#### Exploring Data Distribution ####
+#### 3. Exploring Data Distribution ####
 	1. Boxplots
 	2. Histograms
 	3. Density Estimates
 
-### Correlation ###
+### 4. Correlation ###
 	1. Scatter Plot
 	2. Hex Plot	
 	3. Contour Plot
 
 ## CHAPTER 2 : Data and Sampling Distributions ##
 
-### Random Sampling and Bias ###
+### 1. Random Sampling and Bias ###
 
-### Sampling Distribution of a Statistic ###
+### 2. Sampling Distribution of a Statistic ###
 	1. Regression to the mean
 
-### Central Limit Theorem ###
+### 3. Central Limit Theorem ###
 
-### Bootstrapping ###
+### 4. Bootstrapping ###
 	1. Bootstrapping vs Resampling
 
-### Confidence Interval ###
+### 5. Confidence Interval ###
 
-### Normal Distributions and QQ Plots ###
+### 6. Normal Distributions and QQ Plots ###
 
-### Long-Tailed Distribution ###
+### 7. Long-Tailed Distribution ###
 
-### Binomial Distribution ###
+### 8. Binomial Distribution ###
 
 ## CHAPTER 3 : Statistical Experiments and Significance Testing ##
 
