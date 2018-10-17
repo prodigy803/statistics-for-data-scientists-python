@@ -10,10 +10,10 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
 	1. Mean
 	2. Median and Robust Estimates
 
-#### 2. Estimates of Variability ####
+### 2. Estimates of Variability ###
 	1. Standard Devation and Related Estimates
 
-#### 3. Exploring Data Distribution ####
+### 3. Exploring Data Distribution ###
 	1. Boxplots
 	2. Histograms
 	3. Density Estimates
