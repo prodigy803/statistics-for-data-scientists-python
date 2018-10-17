@@ -15,7 +15,7 @@ The idea was to re-write the orginal code in R to Python so that it can be used 
 
 #### Exploring Data Distribution ####
 	1. Boxplots
-	2.	Histograms
+	2. Histograms
 	3. Density Estimates
 
 ### Correlation ###
